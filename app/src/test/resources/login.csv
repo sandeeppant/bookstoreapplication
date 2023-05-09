@@ -1,0 +1,3 @@
+key,url,username,password
+TC01,https://demoqa.com/login,User1,Welcome12#
+TC02,https://demoqa.com/login,User1,Welcome
